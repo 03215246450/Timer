@@ -1,0 +1,32 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+#time{
+    font-size: 150px;
+    font-weight: bold;
+    display: block;
+}
+#time .txt{
+    font-size: 50px;
+}
+#butn{
+    text-align: center;
+    margin-top: 40px;
+}
+.btn1{
+    padding: 7px 25px;
+    font-size: 15px;
+    margin: 0px 10px;
+}
+#start{
+    color: green;
+}
+#stop{
+    color: rgb(255, 179, 0);
+}
+#reset{
+    color: red;
+}
